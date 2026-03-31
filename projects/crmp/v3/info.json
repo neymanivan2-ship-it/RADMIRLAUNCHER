@@ -1,0 +1,14 @@
+{
+  "gameName": "Rush Online",
+  "userService": "Rush",
+  "cdn": "https://rdmr-cdn.samp-dl.com/game",
+  "servers": [
+    {
+      "id": 1,
+      "name": "Rush Online",
+      "ip": "51.75.44.14",
+      "port": 2273
+    }
+
+  ]
+}
